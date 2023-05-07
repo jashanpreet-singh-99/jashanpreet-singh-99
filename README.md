@@ -8,8 +8,8 @@
 <h3>🔥 My Stats</h3>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak"  align="left"/>
-  <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"  align="right"/>
+  <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"  align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs"  align="center"/>
 </div>
 
 <div>
@@ -17,7 +17,7 @@
 </div>
   
 <div width="100">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs"  align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak"/>
 </div>
  
 --- 
