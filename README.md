@@ -5,25 +5,7 @@
   <img src="https://raw.githubusercontent.com/jashanpreet-singh-99/jashanpreet-singh-99/main/name.svg" alt="Jashanpreet Singh" />
 </h1>
 
-<h3>🔥 My Stats</h3>
-  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak" align="left"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs"  align="center"/>
-</div>
-
-<div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashanpreet-singh-99&theme=react-dark" alt="My activity"/>
-</div>
-  
-<div width="100">
-  <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"/>
-</div>
- 
---- 
-
-<h2>🔗 Social info</h2>
+<h3>🔗 Social info</h2>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/jashanpreet-singh-work/">
@@ -37,3 +19,28 @@
     </a>
   </div>
 </div>
+
+<h3>🔥 My Stats</h3>
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs" />
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak"/>
+  </div>
+  <div width="100">
+  <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"/>
+</div>
+
+</div>
+<!-- <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak" align="left"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs"  align="center"/>
+</div> -->
+
+<!-- 
+<div>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashanpreet-singh-99&theme=react-dark" alt="My activity"/>
+</div>
+  
+  -->
+--- 
