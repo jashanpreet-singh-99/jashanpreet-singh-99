@@ -37,10 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs"  align="center"/>
 </div> -->
 
-<!-- 
 <div>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashanpreet-singh-99&theme=react-dark" alt="My activity"/>
 </div>
-  
-  -->
 --- 
