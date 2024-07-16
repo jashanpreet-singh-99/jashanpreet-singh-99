@@ -38,6 +38,6 @@
 </div> -->
 
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashanpreet-singh-99&theme=react-dark" alt="My activity"/>
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jashanpreet-singh-99&theme=react-dark" alt="My activity"/> -->
 </div>
 --- 
