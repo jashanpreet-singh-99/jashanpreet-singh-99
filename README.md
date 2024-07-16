@@ -21,16 +21,16 @@
 </div>
 
 <h3>🔥 My Stats</h3>
+<div>
   <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs" />
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak"/>
-  </div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanpreet-singh-99&layout=compact&langs_count=10&theme=react" alt="Top Langs" /> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak"/> -->
+  </div> 
   <div width="100">
-  <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=jashanpreet-singh-99&theme=react" alt="GitHub Streak"/>
+  </div>
 </div>
 
-</div>
 <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jashanpreet-singh-99&count_private=true&show_icons=true&theme=react" alt="GitHub Streak" align="left"/>
   
